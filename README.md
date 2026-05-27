@@ -55,17 +55,6 @@ Microsoft Excel — Data source (Superstore, Orders, Customers)
 Mapbox / OpenStreetMap — Geographic map rendering
 
 
-
-
-📂 Repository Structure
-📦 superstore-tableau-dashboard
- ┣ 📊 Assignment__Tableau_Chetan_Nimwal_correct_version.twbx
- ┣ 📄 Superstore.xlsx
- ┣ 📄 Orders.xlsx
- ┣ 📄 Customers.xlsx
- ┣ 🖼️ dashboard_preview.png        ← Add your dashboard screenshot here
- ┗ 📝 README.md
-
 👤 Author
 Chetan Nimwal
 Tableau Dashboard Developer
