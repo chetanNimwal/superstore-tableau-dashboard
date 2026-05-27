@@ -4,7 +4,7 @@ An interactive Tableau dashboard built to analyze retail sales performance acros
 
 
 🖼️ Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![image](dashboard_preview.png)
 
 
 🧩 Business Problem
