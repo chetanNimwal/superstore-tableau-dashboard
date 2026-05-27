@@ -3,10 +3,6 @@
 An interactive Tableau dashboard built to analyze retail sales performance across the United States, helping stakeholders make data-driven decisions on products, regions, and customer segments.
 
 
-🖼️ Dashboard Preview
-![image](dashboard_preview.png)
-
-
 🧩 Business Problem
 A US-based retail superstore operates across multiple regions and product categories — Technology, Furniture, and Office Supplies. The management team faced key challenges:
 
